@@ -13,7 +13,7 @@ export default function Login(){
         <a href="/register"><span>New user? Sign up</span></a>
         <br>
         </br>
-        <a href="#"><span>forget password</span></a>
+        <a href=" "><span>forget password</span></a>
       </>  
     )
 
